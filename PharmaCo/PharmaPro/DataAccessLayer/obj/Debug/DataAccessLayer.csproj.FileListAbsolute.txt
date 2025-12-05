@@ -1,0 +1,30 @@
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

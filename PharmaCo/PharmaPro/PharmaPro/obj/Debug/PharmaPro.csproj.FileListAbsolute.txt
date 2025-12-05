@@ -1,0 +1,441 @@
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\PharmaPro.dll.config
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\PharmaPro.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\PharmaPro.pdb
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\csc.exe
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\csc.exe.config
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\csc.rsp
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\csi.exe
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\csi.exe.config
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\csi.rsp
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.AppContext.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Console.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Net.Http.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\vbc.exe
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\vbc.exe.config
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\vbc.rsp
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.AssemblyReference.cache
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.CoreCompileInputs.cache
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.CopyComplete
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\obj\Debug\PharmaPro.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\obj\Debug\PharmaPro.pdb
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\BusinessLogicLayer.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\DataAccessLayer.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\BusinessLogicLayer.pdb
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\PharmaPro\bin\DataAccessLayer.pdb
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\PharmaPro.dll.config
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\PharmaPro.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\PharmaPro.pdb
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csc.exe
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csc.exe.config
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csc.rsp
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csi.exe
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csi.exe.config
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csi.rsp
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.AppContext.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Collections.Immutable.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Console.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Globalization.Calendars.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Net.Http.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Net.Sockets.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Reflection.Metadata.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.ValueTuple.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\vbc.exe
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\vbc.exe.config
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\vbc.rsp
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe.config
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\BusinessLogicLayer.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\DataAccessLayer.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\BusinessLogicLayer.pdb
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\bin\DataAccessLayer.pdb
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.AssemblyReference.cache
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.CoreCompileInputs.cache
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.Up2Date
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\obj\Debug\PharmaPro.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\PharmaPro\obj\Debug\PharmaPro.pdb
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\PharmaPro.dll.config
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\PharmaPro.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\PharmaPro.pdb
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csc.exe
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csc.exe.config
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csc.rsp
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csi.exe
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csi.exe.config
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\csi.rsp
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.AppContext.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Console.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Net.Http.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Net.Sockets.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\vbc.exe
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\vbc.exe.config
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\vbc.rsp
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\BusinessLogicLayer.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\DataAccessLayer.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\BusinessLogicLayer.pdb
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\bin\DataAccessLayer.pdb
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.AssemblyReference.cache
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.CoreCompileInputs.cache
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.CopyComplete
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\obj\Debug\PharmaPro.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\PharmaPro\obj\Debug\PharmaPro.pdb
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.dll.config
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.pdb
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.exe
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.exe.config
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.rsp
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.exe
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.exe.config
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.rsp
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.AppContext.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Collections.Immutable.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Console.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Globalization.Calendars.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Net.Http.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Net.Sockets.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Reflection.Metadata.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.ValueTuple.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.exe
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.exe.config
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.rsp
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe.config
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\BusinessLogicLayer.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\DataAccessLayer.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\BusinessLogicLayer.pdb
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\bin\DataAccessLayer.pdb
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.AssemblyReference.cache
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.CoreCompileInputs.cache
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.Up2Date
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.pdb
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.dll.config
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.pdb
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.exe
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.exe.config
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.rsp
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.exe
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.exe.config
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.rsp
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.AppContext.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Collections.Immutable.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Console.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Globalization.Calendars.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Net.Http.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Net.Sockets.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Reflection.Metadata.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.ValueTuple.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.exe
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.exe.config
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.rsp
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe.config
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\BusinessLogicLayer.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\DataAccessLayer.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\BusinessLogicLayer.pdb
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\bin\DataAccessLayer.pdb
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.AssemblyReference.cache
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.CoreCompileInputs.cache
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.Up2Date
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.dll
+D:\DBPro\fms\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.pdb
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.dll.config
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.pdb
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.exe
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.exe.config
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.rsp
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.exe
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.exe.config
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.rsp
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.AppContext.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Collections.Immutable.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Console.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Globalization.Calendars.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Net.Http.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Net.Sockets.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Reflection.Metadata.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.ValueTuple.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.exe
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.exe.config
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.rsp
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe.config
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\BusinessLogicLayer.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\DataAccessLayer.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\BusinessLogicLayer.pdb
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\DataAccessLayer.pdb
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.AssemblyReference.cache
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.CoreCompileInputs.cache
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.Up2Date
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.dll
+E:\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.dll.config
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\PharmaPro.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.exe
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.exe.config
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csc.rsp
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.exe
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.exe.config
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\csi.rsp
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.AppContext.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Collections.Immutable.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Console.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Globalization.Calendars.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Net.Http.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Net.Sockets.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Reflection.Metadata.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.ValueTuple.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.exe
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.exe.config
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\vbc.rsp
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\roslyn\VBCSCompiler.exe.config
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\BusinessLogicLayer.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\DataAccessLayer.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\BusinessLogicLayer.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\DataAccessLayer.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.AssemblyReference.cache
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.CoreCompileInputs.cache
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.Up2Date
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.pdb

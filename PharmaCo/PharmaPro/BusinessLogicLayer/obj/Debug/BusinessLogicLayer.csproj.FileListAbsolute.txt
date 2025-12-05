@@ -1,0 +1,45 @@
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\riyan\OneDrive\Desktop\C# Project\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\C# Project pharmapro\C# Project pharmapro\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\wajiz.pk\Downloads\fms\fms\C# Project pharmapro\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\PharmaCoo\fms\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

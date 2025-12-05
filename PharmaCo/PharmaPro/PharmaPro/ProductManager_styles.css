@@ -1,0 +1,237 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: #f7f6f1;
+}
+
+.main-div {
+    background-color: #f7f6f1;
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 50px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, .25);
+}
+
+.container {
+    margin-top: -5px;
+    margin-left: 0;
+    display: flex;
+    align-items: flex-start;
+    margin-left: 60px;
+    width: 100%;
+    height: 35px;
+}
+
+.title-heading {
+    position: relative;
+    top: -5px;
+    color: #d35400; /* Dark Orange */
+    font-family: Rockwell;
+    font-weight: 700;
+}
+
+.filter {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, .25), 0 0 4px 0 rgba(0, 0, 0, .25);
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    padding: 20px;
+}
+
+.filter-row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    justify-content: center;
+}
+
+#Label1, #Label2, #UsernameLabel, #PasswordLabel, #EmailLabel, #FullNameLabel, #AddressLabel, #PhoneLabel {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: dimgray;
+    margin-bottom: 8px;
+    display: block;
+    margin-top: 5px;
+}
+
+#TextBox1, #TextBox2, #UsernameTextBox, #PasswordTextBox, #EmailTextBox, #FullNameTextBox, #AddressTextBox, #PhoneTextBox {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #333;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+    width: 180px;
+    height: 28px;
+    box-sizing: border-box;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+#TextBox1, #UsernameTextBox {
+    margin-right: 15px;
+}
+
+    #TextBox1:hover, #TextBox2:hover, #UsernameTextBox:hover, #PasswordTextBox:hover, #EmailTextBox:hover, #FullNameTextBox:hover, #AddressTextBox:hover, #PhoneTextBox:hover {
+        border-color: #888;
+    }
+
+    #TextBox1:hover, #TextBox2::placeholder, #UsernameTextBox::placeholder, #PasswordTextBox::placeholder, #EmailTextBox::placeholder, #FullNameTextBox::placeholder, #AddressTextBox::placeholder, #PhoneTextBox::placeholder {
+        color: dimgray;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #TextBox1:focus, #TextBox2:focus, #UsernameTextBox:focus, #PasswordTextBox:focus, #EmailTextBox:focus, #FullNameTextBox:focus, #AddressTextBox:focus, #PhoneTextBox:focus {
+        border: 2px solid #d35400; /* Dark Orange */
+        box-shadow: 0 0 5px rgba(211, 84, 0, 0.5);
+        outline: none;
+    }
+
+.break {
+    flex-basis: 100%;
+    height: 0;
+}
+
+.btnseparator {
+    font-family: 'Roboto', sans-serif;
+    color: dimgray;
+}
+
+#Searchbtn, #Viewbtn, #AddUserBtn, #Addbtn, #Deletebtn {
+    height: 28px;
+    width: 80px;
+    color: snow;
+    background-color: #d35400; /* Dark Orange */
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#Addbtn {
+    width: 250px;
+    border-radius: 2px;
+}
+
+#Searchbtn {
+    margin-left: 15px;
+}
+
+#Viewbtn, #AddUserBtn {
+    margin-left: 5px;
+}
+
+    #Searchbtn:focus, #Viewbtn:focus, #AddUserBtn:focus, #Addbtn:focus, #Deletebtn:focus {
+        background-color: #a84300; /* Darker Orange */
+    }
+
+.form-wrapper {
+    margin-top: 0;
+    min-height: 100px;
+    width: 100%;
+    background-color: white;
+    border-bottom: 10px solid;
+    border-width: 0 0 5px 0;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to right, #d3d3d3, #f0f0f0);
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.insert-table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+.auto-style2, .auto-style3, .auto-style4, .auto-style5 {
+    padding: 10px;
+    text-align: left;
+}
+
+#Label3, #Label4, #Label5, #Label6, #Label7, #Label8 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: dimgray;
+    margin-bottom: 8px;
+    margin-top: 5px;
+}
+
+#TextBox3, #TextBox4, #TextBox5, #TextBox6, #TextBox7, #TextBox8 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #333;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+    width: 150px;
+    height: 28px;
+    box-sizing: border-box;
+    transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+    #TextBox3:hover, #TextBox4:hover, #TextBox5:hover, #TextBox6:hover, #TextBox7:hover, #TextBox8:hover {
+        border-color: #888;
+    }
+
+    #TextBox3:focus, #TextBox4:focus, #TextBox5:focus, #TextBox6:focus, #TextBox7:focus, #TextBox8:focus {
+        border: 2px solid #d35400; /* Dark Orange */
+        box-shadow: 0 0 5px rgba(211, 84, 0, 0.5);
+        outline: none;
+    }
+
+.grid {
+    margin-top: 30px;
+    width: 80%;
+    border-collapse: collapse;
+    border-top: 2px solid gray;
+}
+
+#GridView1 {
+    margin-top: 15px;
+}
+
+    #GridView1 th {
+        background-color: #d35400; /* Dark Orange */
+        color: snow;
+        border: 1px solid gray;
+        padding: 8px;
+    }
+
+    #GridView1 tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    #GridView1 td {
+        color: black;
+        border: 1px solid gray;
+        padding: 8px;
+    }
+
+.footer {
+    border-top: 1px solid lightgray;
+    margin-top: 80px;
+    margin-bottom: 3px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    background-color: #f7f6f1;
+    max-height: 25px;
+}

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DBPro\\PharmaCo\\PharmaPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|e:\\dbpro\\pharmaco\\pharmapro\\pharmapro\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|E:\\DBPro\\PharmaCo\\PharmaPro\\pharmapro\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|E:\\DBPro\\PharmaCo\\PharmaPro\\pharmapro\\productmanager.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\productmanager.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|E:\\DBPro\\PharmaCo\\PharmaPro\\pharmapro\\productmanager.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\productmanager.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.aspx.cs",
+              "DocumentMoniker": "E:\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\ProductManager.aspx.cs",
+              "RelativeDocumentMoniker": "PharmaPro\\ProductManager.aspx.cs",
+              "ToolTip": "E:\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\ProductManager.aspx.cs",
+              "RelativeToolTip": "PharmaPro\\ProductManager.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:40:58.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.aspx",
+              "DocumentMoniker": "E:\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\ProductManager.aspx",
+              "RelativeDocumentMoniker": "PharmaPro\\ProductManager.aspx",
+              "ToolTip": "E:\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\ProductManager.aspx",
+              "RelativeToolTip": "PharmaPro\\ProductManager.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T14:40:57.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogIn.aspx",
+              "DocumentMoniker": "E:\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\LogIn.aspx",
+              "RelativeDocumentMoniker": "PharmaPro\\LogIn.aspx",
+              "ToolTip": "E:\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\LogIn.aspx",
+              "RelativeToolTip": "PharmaPro\\LogIn.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T14:34:26.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "E:\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "PharmaPro\\AdminDashboard.aspx.cs",
+              "ToolTip": "E:\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "PharmaPro\\AdminDashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:32:07.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
