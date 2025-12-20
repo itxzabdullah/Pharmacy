@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="BuyMedicine.aspx" />
+    <Content Include="Cart.aspx" />
     <Content Include="LoginStyles.css" />
     <Content Include="AdminDashboard_stylesheet.css" />
     <Content Include="CustomerDashboard_stylesheet.css" />
@@ -92,6 +93,13 @@
     </Compile>
     <Compile Include="BuyMedicine.aspx.designer.cs">
       <DependentUpon>BuyMedicine.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cart.aspx.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cart.aspx.designer.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
     </Compile>
     <Compile Include="MedicineDetails.aspx.cs">
       <DependentUpon>MedicineDetails.aspx</DependentUpon>
@@ -174,6 +182,10 @@
     <ProjectReference Include="..\BusinessLogicLayer\BusinessLogicLayer.csproj">
       <Project>{d90a2d1d-6df1-40e5-82c9-cebbf3014d2b}</Project>
       <Name>BusinessLogicLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DomainModels\DomainModels.csproj">
+      <Project>{b11a6ca7-c299-4277-8403-b7dd4264cfbb}</Project>
+      <Name>DomainModels</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

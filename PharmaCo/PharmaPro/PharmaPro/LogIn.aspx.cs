@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 using BusinessLogicLayer;
+using DomainModels;
 
 namespace PharmaPro
 {
@@ -9,33 +9,21 @@ namespace PharmaPro
     {
         BLL bll = new BLL();
 
-        protected void Page_Load(object sender, EventArgs e)
-        {
-            if (!IsPostBack)
-            {
-                PopulateDropDownList();
-            }
-        }
-
-        protected void PopulateDropDownList()
-        {
-            DropDownList1.Items.Clear();
-            DropDownList1.Items.Add(new ListItem("Select", ""));
-            DropDownList1.Items.Add(new ListItem("Admin", "admin"));
-            DropDownList1.Items.Add(new ListItem("Customer", "customer"));
-        }
-
         protected void Signinbtn_Click(object sender, EventArgs e)
         {
             string username = Username_txtbox.Text.Trim();
             string password = Password_txtbox.Text.Trim();
             string userType = DropDownList1.SelectedValue;
 
-            bool isValidUser = bll.VerifyUser(username, password, userType);
+            var user = bll.GetUser(username, password, userType);
 
-            if (isValidUser)
+            if (user != null)
             {
-                switch (userType.ToLower())
+                Session["UserID"] = user.UserID;
+                Session["UserType"] = user.UserType;
+                Session["FullName"] = user.FullName;
+
+                switch (user.UserType.ToLower())
                 {
                     case "admin":
                         Response.Redirect("AdminDashboard.aspx");
@@ -43,8 +31,8 @@ namespace PharmaPro
                     case "customer":
                         Response.Redirect("CustomerDashboard.aspx");
                         break;
-                    case "pharmacist":
-                        Response.Redirect("PharmacistDashboard.aspx");
+                    default:
+                        ShowMessage("Unknown user type.");
                         break;
                 }
             }
@@ -58,11 +46,6 @@ namespace PharmaPro
         {
             string script = $"alert('{message}');";
             ScriptManager.RegisterStartupScript(this, GetType(), "showalert", script, true);
-        }
-
-        public void Redirect(object sender, EventArgs e)
-        {
-            Response.Redirect("AdminDashboard.aspx");
         }
     }
 }

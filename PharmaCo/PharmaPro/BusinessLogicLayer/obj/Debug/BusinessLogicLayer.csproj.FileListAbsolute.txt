@@ -43,3 +43,5 @@ E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\Business.450209FB.Up2Date
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\bin\Debug\DomainModels.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\BusinessLogicLayer\bin\Debug\DomainModels.pdb

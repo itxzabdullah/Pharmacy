@@ -1,0 +1,6 @@
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DomainModels\bin\Debug\DomainModels.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DomainModels\bin\Debug\DomainModels.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DomainModels\obj\Debug\DomainModels.csproj.AssemblyReference.cache
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DomainModels\obj\Debug\DomainModels.csproj.CoreCompileInputs.cache
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DomainModels\obj\Debug\DomainModels.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DomainModels\obj\Debug\DomainModels.pdb

@@ -94,6 +94,7 @@ VALUES
 ('Hamza', '12345', 'S.Hamza@gmail.com', 'Hamza Afzaal', 'House 23, G-10/4, Karachi', '0300-1234567', 'Admin'),
 ('Abdullah', '11223344', 'Abdullah@gmail.com', 'Abdullah', 'Flat 9-B, Lahore', '0345-8899001', 'Admin');
 
+
 INSERT INTO Products (ProductName, Description, Price, Category)
 VALUES 
 ('Paracetamol', 'Effective for reducing fever and relieving pain.', 350, 'Medicine'),
@@ -106,3 +107,32 @@ VALUES
 ('Glucose Powder', 'Instant energy booster for fatigue and dehydration.', 320, 'Supplements'),
 ('Face Mask (Pack of 50)', 'Disposable masks for protection against airborne particles.', 1200, 'Hygiene'),
 ('Insulin Injection', 'Used for diabetes management under prescription.', 2500, 'Medicine');
+
+
+
+
+SELECT ProductID, ProductName, Price FROM Products WHERE ProductID = 1;
+
+
+select * from UserAccounts;
+
+INSERT INTO UserAccounts (Username, PasswordHash, Email, FullName, Address, PhoneNumber, UserType)
+VALUES ('ali', 'password123', 'ali@gmail.com', 'Ali Khan', 'Karachi', '0300-5555555', 'Customer');
+
+
+INSERT INTO Orders (UserID, OrderDate, TotalAmount)
+VALUES (1006, GETDATE(), 500.00);
+
+DECLARE @OrderId INT = SCOPE_IDENTITY();
+
+-- Example: Paracetamol has a unit price of 250.00
+INSERT INTO OrderDetails (OrderID, ProductID, Quantity, Price)
+VALUES (19, 1, 2, 250.00);
+
+SELECT * FROM Orders ORDER BY OrderDate DESC;
+
+SELECT o.OrderID, u.FullName, u.UserType
+FROM Orders o
+JOIN UserAccounts u ON o.UserID = u.UserID
+ORDER BY o.OrderDate DESC;
+

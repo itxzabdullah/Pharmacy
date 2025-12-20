@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Data;
 using System.Data.SqlClient;
+using DomainModels;
+using System.Collections.Generic;
+
+
 
 namespace DataAccessLayer
 {
@@ -23,11 +27,81 @@ namespace DataAccessLayer
     // Authentication DAL (kept simple to match current schema/usage)
     public class DAL
     {
+        private string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=PharmaPro;Integrated Security=True";
+
         private readonly DatabaseConnect dbc;
 
         public DAL()
         {
             dbc = new DatabaseConnect("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=PharmaPro;Integrated Security=True");
+        }
+
+        public void InsertOrder(int userId, List<OrderDetailDTO> orderDetails, decimal totalAmount, string paymentMethod)
+        {
+            using (SqlConnection conn = dbc.GetConnection())
+            {
+                conn.Open();
+                SqlTransaction transaction = conn.BeginTransaction();
+
+                try
+                {
+                    // Insert into Orders
+                    string insertOrderQuery = @"
+                INSERT INTO Orders (UserID, OrderDate, TotalAmount, PaymentStatus)
+                VALUES (@UserID, @OrderDate, @TotalAmount, @PaymentStatus);
+                SELECT SCOPE_IDENTITY();";
+
+                    SqlCommand orderCmd = new SqlCommand(insertOrderQuery, conn, transaction);
+                    orderCmd.Parameters.AddWithValue("@UserID", userId);
+                    orderCmd.Parameters.AddWithValue("@OrderDate", DateTime.Now);
+                    orderCmd.Parameters.AddWithValue("@TotalAmount", totalAmount);
+                    orderCmd.Parameters.AddWithValue("@PaymentStatus", "Pending");
+
+                    int orderId = Convert.ToInt32(orderCmd.ExecuteScalar());
+
+                    // Insert order details
+                    foreach (var item in orderDetails)
+                    {
+                        string insertDetailQuery = @"
+                    INSERT INTO OrderDetails (OrderID, ProductID, Quantity, Price)
+                    VALUES (@OrderID, @ProductID, @Quantity, @Price);";
+
+                        SqlCommand detailCmd = new SqlCommand(insertDetailQuery, conn, transaction);
+                        detailCmd.Parameters.AddWithValue("@OrderID", orderId);
+                        detailCmd.Parameters.AddWithValue("@ProductID", item.ProductId);
+                        detailCmd.Parameters.AddWithValue("@Quantity", item.Quantity);
+                        detailCmd.Parameters.AddWithValue("@Price", item.UnitPrice);
+
+                        detailCmd.ExecuteNonQuery();
+
+                        // Update inventory
+                        string updateInventoryQuery = "UPDATE Inventory SET Available = Available - @Quantity WHERE ProductID = @ProductID";
+                        SqlCommand updateCmd = new SqlCommand(updateInventoryQuery, conn, transaction);
+                        updateCmd.Parameters.AddWithValue("@Quantity", item.Quantity);
+                        updateCmd.Parameters.AddWithValue("@ProductID", item.ProductId);
+                        updateCmd.ExecuteNonQuery();
+                    }
+
+                    // Insert billing record
+                    string insertBillingQuery = @"
+                INSERT INTO Billing (OrderID, PaymentMethod, PaymentDate, AmountPaid)
+                VALUES (@OrderID, @PaymentMethod, @PaymentDate, @AmountPaid);";
+
+                    SqlCommand billingCmd = new SqlCommand(insertBillingQuery, conn, transaction);
+                    billingCmd.Parameters.AddWithValue("@OrderID", orderId);
+                    billingCmd.Parameters.AddWithValue("@PaymentMethod", paymentMethod);
+                    billingCmd.Parameters.AddWithValue("@PaymentDate", DateTime.Now);
+                    billingCmd.Parameters.AddWithValue("@AmountPaid", totalAmount);
+                    billingCmd.ExecuteNonQuery();
+
+                    transaction.Commit();
+                }
+                catch
+                {
+                    transaction.Rollback();
+                    throw;
+                }
+            }
         }
 
         // Compares plain text PasswordHash field (as your current DB stores plain strings)

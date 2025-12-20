@@ -439,3 +439,5 @@ E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.csproj.Up2Date
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.dll
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\obj\Debug\PharmaPro.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\DomainModels.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro\bin\DomainModels.pdb

@@ -1,7 +1,8 @@
 ﻿using System;
-using System.Data;
 using System.Web.UI.WebControls;
 using BusinessLogicLayer;
+using DomainModels;
+using System.Collections.Generic;
 
 namespace PharmaPro
 {
@@ -20,25 +21,26 @@ namespace PharmaPro
         // 📋 View all users
         protected void Viewbtn_Click(object sender, EventArgs e)
         {
-            DataTable dt = bll.viewall();
-            GridView1.DataSource = dt;
+            List<User> users = bll.ViewAllUsers();
+            GridView1.DataSource = users;
             GridView1.DataBind();
         }
 
-        // 🔎 Search user
+        // 🔎 Search user (you’ll need to add a SearchUser method in BLL)
         protected void Searchbtn_Click(object sender, EventArgs e)
         {
             string id = TextBox1.Text.Trim();
-            string user = TextBox2.Text.Trim();
+            string username = TextBox2.Text.Trim();
 
-            int uid;
-            if (!int.TryParse(id, out uid))
+            int userId;
+            if (!int.TryParse(id, out userId))
             {
                 return;
             }
 
-            DataTable dt = bll.search(uid, user);
-            GridView1.DataSource = dt;
+            // You need to implement SearchUser in BLL (returns List<User>)
+            List<User> users = bll.SearchUser(userId, username);
+            GridView1.DataSource = users;
             GridView1.DataBind();
         }
 
@@ -52,11 +54,11 @@ namespace PharmaPro
                 TextBox1.Text = selectedRow.Cells[0].Text; // UserID
                 TextBox2.Text = selectedRow.Cells[1].Text; // Username
                 TextBox3.Text = selectedRow.Cells[1].Text; // Username for update
-                TextBox5.Text = selectedRow.Cells[3].Text; // Email
-                TextBox7.Text = selectedRow.Cells[4].Text; // FullName
-                TextBox6.Text = selectedRow.Cells[5].Text; // Address
-                TextBox8.Text = selectedRow.Cells[6].Text; // Phone
-                DropDownList1.SelectedValue = selectedRow.Cells[7].Text; // UserType
+                TextBox5.Text = selectedRow.Cells[2].Text; // Email
+                TextBox7.Text = selectedRow.Cells[3].Text; // FullName
+                TextBox6.Text = selectedRow.Cells[4].Text; // Address
+                TextBox8.Text = selectedRow.Cells[5].Text; // Phone
+                DropDownList1.SelectedValue = selectedRow.Cells[6].Text; // UserType
             }
         }
 
@@ -69,7 +71,7 @@ namespace PharmaPro
                 return;
             }
 
-            bll.deleteUser(userId);
+            bll.DeleteUser(userId);
             Viewbtn_Click(sender, e);
         }
 

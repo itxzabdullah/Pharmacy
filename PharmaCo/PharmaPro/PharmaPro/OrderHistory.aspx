@@ -148,15 +148,17 @@
 
             <div class="card">
                 <h2>All Orders (Most Recent First)</h2>
-                <asp:GridView ID="gvOrderHistory" runat="server" CssClass="gridview-style" AutoGenerateColumns="False">
+                <asp:GridView ID="gvOrderHistory" runat="server" AutoGenerateColumns="False" CssClass="gridview-style">
                     <Columns>
                         <asp:BoundField DataField="OrderID" HeaderText="Order ID" />
                         <asp:BoundField DataField="CustomerName" HeaderText="Customer" />
-                        <asp:BoundField DataField="OrderDate" HeaderText="Order Date" DataFormatString="{0:MM/dd/yyyy HH:mm}" />
-                        <asp:BoundField DataField="TotalAmount" HeaderText="Total" DataFormatString="{0:C}" />
+                        <asp:BoundField DataField="OrderDate" HeaderText="Order Date" DataFormatString="{0:dd-MMM-yyyy HH:mm}" />
+                        <asp:BoundField DataField="TotalAmount" HeaderText="Total" DataFormatString="{0:N2}" />
                         <asp:BoundField DataField="Items" HeaderText="Products (qty)" />
                     </Columns>
                 </asp:GridView>
+
+
             </div>
 
             <div class="footer">

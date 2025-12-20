@@ -37,7 +37,8 @@ namespace PharmaPro
                     SELECT o.OrderID, u.FullName AS CustomerName, o.OrderDate, o.TotalAmount
                     FROM Orders o
                     JOIN UserAccounts u ON o.UserID = u.UserID
-                    WHERE (@keyword = '' OR 
+                    WHERE u.UserType = 'Customer' -- ✅ only show customer orders
+                      AND (@keyword = '' OR 
                            o.OrderID LIKE '%' + @keyword + '%' OR 
                            u.FullName LIKE '%' + @keyword + '%')
                     ORDER BY o.OrderDate DESC";

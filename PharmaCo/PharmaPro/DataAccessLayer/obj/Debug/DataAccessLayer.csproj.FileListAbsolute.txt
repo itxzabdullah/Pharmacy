@@ -28,3 +28,6 @@ E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\bin\Debug\DomainModels.dll
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\bin\Debug\DomainModels.pdb
+E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
