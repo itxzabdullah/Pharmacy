@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.0.11222.15 d18.0
+VisualStudioVersion = 18.0.11222.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaPro", "PharmaPro\PharmaPro.csproj", "{5400B069-78A7-4BC3-BDC4-A31D0D580512}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{1ADEF17E-FE76-4578-835F-B1CAB6B0D355}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModels", "DomainModels\DomainModels.csproj", "{B11A6CA7-C299-4277-8403-B7DD4264CFBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaPro.Tests", "PharmaPro.Tests\PharmaPro.Tests.csproj", "{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{B11A6CA7-C299-4277-8403-B7DD4264CFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B11A6CA7-C299-4277-8403-B7DD4264CFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B11A6CA7-C299-4277-8403-B7DD4264CFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

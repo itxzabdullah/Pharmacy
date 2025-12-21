@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\pharmapro\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\pharmapro\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\pharmapro\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\pharmapro\\buymedicine.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\buymedicine.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\pharmapro\\buymedicine.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\buymedicine.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}|PharmaPro.Tests\\PharmaPro.Tests.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\pharmapro.tests\\usermanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}|PharmaPro.Tests\\PharmaPro.Tests.csproj|solutionrelative:pharmapro.tests\\usermanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\pharmapro\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}|PharmaPro.Tests\\PharmaPro.Tests.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\pharmapro.tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}|PharmaPro.Tests\\PharmaPro.Tests.csproj|solutionrelative:pharmapro.tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,76 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cart.aspx.cs",
-              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\Cart.aspx.cs",
-              "RelativeDocumentMoniker": "PharmaPro\\Cart.aspx.cs",
-              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\Cart.aspx.cs",
-              "RelativeToolTip": "PharmaPro\\Cart.aspx.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAmwDgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T17:08:05.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Cart.aspx",
-              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\Cart.aspx",
-              "RelativeDocumentMoniker": "PharmaPro\\Cart.aspx",
-              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\Cart.aspx",
-              "RelativeToolTip": "PharmaPro\\Cart.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-20T17:08:03.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LogIn.aspx.cs",
-              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\LogIn.aspx.cs",
-              "RelativeDocumentMoniker": "PharmaPro\\LogIn.aspx.cs",
-              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\LogIn.aspx.cs",
-              "RelativeToolTip": "PharmaPro\\LogIn.aspx.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswDIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T16:35:09.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BuyMedicine.aspx.cs",
-              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\BuyMedicine.aspx.cs",
-              "RelativeDocumentMoniker": "PharmaPro\\BuyMedicine.aspx.cs",
-              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\BuyMedicine.aspx.cs",
-              "RelativeToolTip": "PharmaPro\\BuyMedicine.aspx.cs",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAswK4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T09:58:02.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BuyMedicine.aspx",
-              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\BuyMedicine.aspx",
-              "RelativeDocumentMoniker": "PharmaPro\\BuyMedicine.aspx",
-              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\BuyMedicine.aspx",
-              "RelativeToolTip": "PharmaPro\\BuyMedicine.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-20T09:57:59.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "LogIn.aspx",
               "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\LogIn.aspx",
               "RelativeDocumentMoniker": "PharmaPro\\LogIn.aspx",
@@ -111,7 +34,37 @@
               "RelativeToolTip": "PharmaPro\\LogIn.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-05T11:07:59.393Z",
+              "WhenOpened": "2025-12-21T09:31:22.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagerTest.cs",
+              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro.Tests\\UserManagerTest.cs",
+              "RelativeDocumentMoniker": "PharmaPro.Tests\\UserManagerTest.cs",
+              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro.Tests\\UserManagerTest.cs",
+              "RelativeToolTip": "PharmaPro.Tests\\UserManagerTest.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T09:28:02.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro.Tests\\LoginTests.cs",
+              "RelativeDocumentMoniker": "PharmaPro.Tests\\LoginTests.cs",
+              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro.Tests\\LoginTests.cs",
+              "RelativeToolTip": "PharmaPro.Tests\\LoginTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T08:14:57.11Z",
               "EditorCaption": ""
             }
           ]
