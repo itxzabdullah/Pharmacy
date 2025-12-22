@@ -62,8 +62,7 @@ namespace PharmaPro
                     lblMessage.CssClass = "message-label error-message";
                 }
 
-                // Default numeric format (no Rs prefix)
-                lblPrice.Text = $"Unit Price: {productUnitPrice:N2}";
+                lblPrice.Text = $"Unit Price: ${productUnitPrice:N2}";
                 lblStock.Text = "Available";
             }
             else
@@ -112,7 +111,7 @@ namespace PharmaPro
 
                     // Default numeric format
                     lblMessage.Text = $"Successfully purchased {quantity} unit(s) of {medicine.Name}. " +
-                                      $"Unit Price: {productUnitPrice:N2}, Total: {totalAmount:N2}. " +
+                                      $"Unit Price: ${productUnitPrice:N2}, Total: ${totalAmount:N2}. " +
                                       "Your order has been placed!";
                     lblMessage.CssClass = "message-label success-message";
 

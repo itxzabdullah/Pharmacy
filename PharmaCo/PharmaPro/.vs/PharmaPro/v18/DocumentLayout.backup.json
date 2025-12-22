@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}|PharmaPro.Tests\\PharmaPro.Tests.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\pharmapro.tests\\usermanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}|PharmaPro.Tests\\PharmaPro.Tests.csproj|solutionrelative:pharmapro.tests\\usermanagertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}|PharmaPro.Tests\\PharmaPro.Tests.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\pharmapro.tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}|PharmaPro.Tests\\PharmaPro.Tests.csproj|solutionrelative:pharmapro.tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\pharmapro\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,31 +36,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserManagerTest.cs",
-              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro.Tests\\UserManagerTest.cs",
-              "RelativeDocumentMoniker": "PharmaPro.Tests\\UserManagerTest.cs",
-              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro.Tests\\UserManagerTest.cs",
-              "RelativeToolTip": "PharmaPro.Tests\\UserManagerTest.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAcwGIAAAABAAAAAAAAAA==",
+              "Title": "LogIn.aspx.cs",
+              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\LogIn.aspx.cs",
+              "RelativeDocumentMoniker": "PharmaPro\\LogIn.aspx.cs",
+              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\LogIn.aspx.cs",
+              "RelativeToolTip": "PharmaPro\\LogIn.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T09:28:02.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginTests.cs",
-              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro.Tests\\LoginTests.cs",
-              "RelativeDocumentMoniker": "PharmaPro.Tests\\LoginTests.cs",
-              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro.Tests\\LoginTests.cs",
-              "RelativeToolTip": "PharmaPro.Tests\\LoginTests.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAswE8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T08:14:57.11Z",
+              "WhenOpened": "2025-12-21T16:35:32.739Z",
               "EditorCaption": ""
             }
           ]

@@ -89,18 +89,27 @@
                 <Columns>
                     <asp:BoundField DataField="ProductId" HeaderText="Product ID" />
                     <asp:BoundField DataField="ProductName" HeaderText="Product Name" />
-                    <asp:BoundField DataField="UnitPrice" HeaderText="Unit Price" />
+                    <asp:TemplateField HeaderText="Unit Price">
+                        <ItemTemplate>
+                            <asp:Label ID="lblUnitPrice" runat="server"
+                                Text='<%# String.Format("${0:N2}", Eval("UnitPrice")) %>'></asp:Label>
+                        </ItemTemplate>
+                    </asp:TemplateField>
+
                     <asp:BoundField DataField="Quantity" HeaderText="Quantity" />
-                    <asp:BoundField DataField="TotalPrice" HeaderText="Total Price" />
+                    <asp:TemplateField HeaderText="Total Price">
+                        <ItemTemplate>
+                            <asp:Label ID="lblTotalPrice" runat="server"
+                                Text='<%# String.Format("${0:N2}", Eval("TotalPrice")) %>'></asp:Label>
+                        </ItemTemplate>
+                    </asp:TemplateField>
 
                     <asp:ButtonField Text="Remove" CommandName="RemoveItem" ButtonType="Button" />
                 </Columns>
             </asp:GridView>
 
-            <!-- Checkout button -->
-            <asp:Button ID="btnCheckout" runat="server" Text="Checkout" CssClass="checkout-btn" OnClick="btnCheckout_Click" />
 
-            <!-- Message label -->
+            <asp:Button ID="btnCheckout" runat="server" Text="Checkout" CssClass="checkout-btn" OnClick="btnCheckout_Click" />
             <asp:Label ID="lblMessage" runat="server" CssClass="message-label"></asp:Label>
         </div>
     </form>

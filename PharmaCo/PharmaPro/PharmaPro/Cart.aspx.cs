@@ -32,7 +32,7 @@ namespace PharmaPro
                 }
                 else
                 {
-                    lblMessage.Text = $"Cart total: {cart.GetCartTotal():N2}";
+                    lblMessage.Text = $"Cart total: ${cart.GetCartTotal():N2}";
                     lblMessage.CssClass = "message-label success-message";
                     btnCheckout.Enabled = true;
                 }

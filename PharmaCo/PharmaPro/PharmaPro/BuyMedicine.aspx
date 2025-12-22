@@ -156,8 +156,13 @@
 
             <div class="detail-row">
                 <span class="detail-label">Price Per Unit:</span>
-                <!-- ✅ Default numeric price, no Rs prefix -->
-                <span class="detail-value price-value"><asp:Label ID="lblPrice" runat="server"></asp:Label></span>
+                
+                <span class="detail-value price-value">
+                    <asp:Label ID="lblPrice" runat="server"
+                        Text='<%# Eval("Price", "${0:N2}") %>'>
+                    </asp:Label>
+                </span>
+
             </div>
 
             <div class="detail-row">
