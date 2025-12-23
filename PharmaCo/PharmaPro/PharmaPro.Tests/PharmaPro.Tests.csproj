@@ -147,10 +147,6 @@
       <Project>{b11a6ca7-c299-4277-8403-b7dd4264cfbb}</Project>
       <Name>DomainModels</Name>
     </ProjectReference>
-    <ProjectReference Include="..\PharmaPro\PharmaPro.csproj">
-      <Project>{5400b069-78a7-4bc3-bdc4-a31d0d580512}</Project>
-      <Name>PharmaPro</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

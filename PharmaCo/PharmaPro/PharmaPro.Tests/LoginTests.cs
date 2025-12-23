@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using System;
+using NUnit.Framework;
 using Moq;
 using BusinessLogicLayer;
 using DataAccessLayer;
@@ -17,22 +18,26 @@ namespace PharmaPro.Tests
         {
             // Create a mock DAL and inject into BLL
             dalMock = new Mock<IDal>();
-            //bll = new BLL(dalMock.Object);
+            bll = new BLL(dalMock.Object);
         }
 
         [Test]
         public void Login_ValidCredentials_ReturnsUser()
         {
-            // Arrange: fake DAL says credentials are valid
-            dalMock.Setup(d => d.VerifyUser("ali", "password123", "Customer"))
+            // Arrange: fake DAL says credentials are valid (case-insensitive match for userType)
+            dalMock.Setup(d => d.VerifyUser(
+                    It.Is<string>(u => u == "ali"),
+                    It.Is<string>(p => p == "password123"),
+                    It.Is<string>(t => t.Equals("Customer", StringComparison.OrdinalIgnoreCase))
+                ))
                    .Returns(true);
 
             // Act
             var user = bll.GetUser("ali", "password123", "Customer");
 
-            // Assert
+            // Assert (case-insensitive)
             Assert.That(user, Is.Not.Null);
-            Assert.That(user.UserType.ToLower(), Is.EqualTo("Customer"));
+            Assert.That(user.UserType, Is.EqualTo("Customer").IgnoreCase);
         }
 
         [Test]

@@ -25,7 +25,7 @@ namespace DataAccessLayer
     }
 
     // Authentication DAL (kept simple to match current schema/usage)
-    public class DAL
+    public class DAL : IDal
     {
         private string connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=PharmaPro;Integrated Security=True";
 
@@ -45,6 +45,17 @@ namespace DataAccessLayer
 
                 try
                 {
+                    // Defensive: ensure the user exists before attempting to insert an order.
+                    using (SqlCommand checkUser = new SqlCommand("SELECT COUNT(1) FROM UserAccounts WHERE UserID = @UserID", conn, transaction))
+                    {
+                        checkUser.Parameters.AddWithValue("@UserID", userId);
+                        int userCount = Convert.ToInt32(checkUser.ExecuteScalar());
+                        if (userCount == 0)
+                        {
+                            throw new InvalidOperationException($"Cannot place order: user with id {userId} does not exist.");
+                        }
+                    }
+
                     // Insert into Orders
                     string insertOrderQuery = @"
                 INSERT INTO Orders (UserID, OrderDate, TotalAmount, PaymentStatus)
@@ -67,7 +78,7 @@ namespace DataAccessLayer
                     VALUES (@OrderID, @ProductID, @Quantity, @Price);";
 
                         SqlCommand detailCmd = new SqlCommand(insertDetailQuery, conn, transaction);
-                        detailCmd.Parameters.AddWithValue("@OrderID", orderId);
+                        detailCmd.Parameters.AddWithValue("@ORDERID", orderId);
                         detailCmd.Parameters.AddWithValue("@ProductID", item.ProductId);
                         detailCmd.Parameters.AddWithValue("@Quantity", item.Quantity);
                         detailCmd.Parameters.AddWithValue("@Price", item.UnitPrice);

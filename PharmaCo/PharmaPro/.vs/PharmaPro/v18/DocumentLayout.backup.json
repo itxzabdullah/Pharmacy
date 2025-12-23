@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\pharmapro\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\pharmapro\\inventorymanager.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\inventorymanager.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\pharmapro\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D90A2D1D-6DF1-40E5-82C9-CEBBF3014D2B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\businesslogiclayer\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90A2D1D-6DF1-40E5-82C9-CEBBF3014D2B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D90A2D1D-6DF1-40E5-82C9-CEBBF3014D2B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\businesslogiclayer\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D90A2D1D-6DF1-40E5-82C9-CEBBF3014D2B}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}|PharmaPro.Tests\\PharmaPro.Tests.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\pharmapro.tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2054ADAC-E4DC-408D-8F49-FF9EB40BB9DE}|PharmaPro.Tests\\PharmaPro.Tests.csproj|solutionrelative:pharmapro.tests\\logintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEF17E-FE76-4578-835F-B1CAB6B0D355}|DataAccessLayer\\DataAccessLayer.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\dataaccesslayer\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADEF17E-FE76-4578-835F-B1CAB6B0D355}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11A6CA7-C299-4277-8403-B7DD4264CFBB}|DomainModels\\DomainModels.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\domainmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11A6CA7-C299-4277-8403-B7DD4264CFBB}|DomainModels\\DomainModels.csproj|solutionrelative:domainmodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADEF17E-FE76-4578-835F-B1CAB6B0D355}|DataAccessLayer\\DataAccessLayer.csproj|e:\\notes\\5th\\courses\\software construction\\software construction lab (sel 311 )\\project\\dbpro\\pharmaco\\pharmapro\\dataaccesslayer\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADEF17E-FE76-4578-835F-B1CAB6B0D355}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\pharmapro\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5400B069-78A7-4BC3-BDC4-A31D0D580512}|PharmaPro\\PharmaPro.csproj|solutionrelative:pharmapro\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +42,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\DomainModels\\User.cs",
+              "RelativeDocumentMoniker": "DomainModels\\User.cs",
+              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\DomainModels\\User.cs",
+              "RelativeToolTip": "DomainModels\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:05:50.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDal.cs",
+              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\DataAccessLayer\\IDal.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IDal.cs",
+              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\DataAccessLayer\\IDal.cs",
+              "RelativeToolTip": "DataAccessLayer\\IDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:02:11.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\BusinessLogicLayer\\BLL.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BLL.cs",
+              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\BusinessLogicLayer\\BLL.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\BLL.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:32:06.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAL.cs",
+              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\DataAccessLayer\\DAL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DAL.cs",
+              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\DataAccessLayer\\DAL.cs",
+              "RelativeToolTip": "DataAccessLayer\\DAL.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwEIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T15:54:53.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginTests.cs",
+              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro.Tests\\LoginTests.cs",
+              "RelativeDocumentMoniker": "PharmaPro.Tests\\LoginTests.cs",
+              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro.Tests\\LoginTests.cs",
+              "RelativeToolTip": "PharmaPro.Tests\\LoginTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:06:35.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\BusinessLogicLayer\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\InventoryService.cs",
+              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\BusinessLogicLayer\\Services\\InventoryService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:59:43.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InventoryManager.aspx.cs",
+              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\InventoryManager.aspx.cs",
+              "RelativeDocumentMoniker": "PharmaPro\\InventoryManager.aspx.cs",
+              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\InventoryManager.aspx.cs",
+              "RelativeToolTip": "PharmaPro\\InventoryManager.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:43:31.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LogIn.aspx",
               "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\LogIn.aspx",
               "RelativeDocumentMoniker": "PharmaPro\\LogIn.aspx",
@@ -31,19 +146,6 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-12-21T09:31:22.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LogIn.aspx.cs",
-              "DocumentMoniker": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\LogIn.aspx.cs",
-              "RelativeDocumentMoniker": "PharmaPro\\LogIn.aspx.cs",
-              "ToolTip": "E:\\Notes\\5th\\Courses\\Software Construction\\Software Construction Lab (SEL 311 )\\Project\\DBPro\\PharmaCo\\PharmaPro\\PharmaPro\\LogIn.aspx.cs",
-              "RelativeToolTip": "PharmaPro\\LogIn.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T16:35:32.739Z",
               "EditorCaption": ""
             }
           ]

@@ -27,7 +27,6 @@ E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\nunit.framework.dll
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\nunit.framework.legacy.dll
-E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\PharmaPro.dll
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\System.Buffers.dll
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\System.Collections.Immutable.dll
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\System.Diagnostics.DiagnosticSource.dll
@@ -40,8 +39,6 @@ E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\BusinessLogicLayer.pdb
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\DataAccessLayer.pdb
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\DomainModels.pdb
-E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\PharmaPro.pdb
-E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\PharmaPro.dll.config
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\Microsoft.ApplicationInsights.pdb
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\Microsoft.ApplicationInsights.xml
 E:\Notes\5th\Courses\Software Construction\Software Construction Lab (SEL 311 )\Project\DBPro\PharmaCo\PharmaPro\PharmaPro.Tests\bin\Debug\Microsoft.Testing.Extensions.MSBuild.xml
